@@ -1,26 +1,30 @@
 
-as3/OpenCVExtension/.actionScriptProperties
+as3 code/.DS_Store
 
-as3/OpenCVExtension/.flexLibProperties
+as3 code/OpenCVExtension/.actionScriptProperties
 
-as3/OpenCVExtension/.project
+as3 code/OpenCVExtension/.flexLibProperties
 
-as3/OpenCVExtension/.settings/*
+as3 code/OpenCVExtension/.project
 
-as3/OpenCVExtension/assets/*
+as3 code/OpenCVExtension/.settings/*
 
-as3/OpenCVExtension/cert/debugCert.p12
+as3 code/OpenCVExtension/assets/build/*
 
-as3/OpenCVExtensionDemo/.DS_Store
+as3 code/OpenCVExtension/assets/extension/*
 
-as3/OpenCVExtensionDemo/.actionScriptProperties
+as3 code/OpenCVExtension/cert/debugCert.p12
 
-as3/OpenCVExtensionDemo/.project
+demo/OpenCVExtensionDemo/.DS_Store
 
-as3/OpenCVExtensionDemo/.settings/*
+demo/OpenCVExtensionDemo/.actionScriptProperties
 
-as3/OpenCVExtensionDemo/bin-debug/*
+demo/OpenCVExtensionDemo/.project
 
-as3/OpenCVExtensionDemo/src/net/.DS_Store
+demo/OpenCVExtensionDemo/.settings/*
 
-native/OpenCVExtension/.DS_Store
+demo/OpenCVExtensionDemo/bin-debug/*
+
+demo/OpenCVExtensionDemo/src/net/.DS_Store
+
+native code/mac/.DS_Store
